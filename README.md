@@ -1,23 +1,25 @@
-# Joseph2xy
+# Hi, I'm Joseph
 
-I'm Joseph, a software engineer working in fintech. At work, I help turn complex financial and derivatives workflows into usable software. Outside work, I build things I find useful and whatever else catches my interest. Sometimes useful. Occasionally sensible.
+I'm a software engineer working across the stack in fintech. Outside work, I build tools I want to use and try out whatever catches my interest.
+
+Most of what you'll find here comes from that: side projects, experiments, and things built for friends or a community.
 
 ## Things I'm building
 
-### [MomoiVoting](https://github.com/Joseph2xy/momoi-voting)
+### [Momoi](https://github.com/Joseph2xy/momoi-voting)
 
-*Letting the community decide what plays next. Democracy, with playlists.*
+A voting app for a Twitch VOD community. Viewers choose what they want to watch next, and the winning playlist plays automatically. Built to give the community a say instead of leaving it random.
 
-Built for a Twitch channel that runs VODs, so the community could vote on what to watch next instead of leaving it random. The winning choice plays automatically.
+[Live app](https://momoi.joe2xyb.workers.dev/) · TypeScript, React, Convex
 
 ### [PoorBot](https://github.com/Joseph2xy/poorBot)
 
-*Too lazy to check by myself*
+A Discord bot that watches game prices for a friend and me. It sends alerts when prices drop, so we don't have to keep checking.
 
-Built for a friend and me to get Discord alerts when game prices drop, instead of checking manually.
+TypeScript, Node.js, discord.js
 
-### [MomoiTTS](https://github.com/Joseph2xy/momoi-tts)
+### [Momoi TTS](https://github.com/Joseph2xy/momoi-tts)
 
-*Giving fictional characters a voice, and viewers questionable things to ask them.*
+An experiment with characters that have their own personalities and voices, built around spoken replies to Twitch viewer questions. Still a work in progress, with more development and testing to do.
 
-A project for creating characters with their own personalities and voices, with Twitch as a possible home for them. Still a work in progress, with more development and testing needed.
+TypeScript, Twitch, OBS
