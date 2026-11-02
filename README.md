@@ -1,20 +1,18 @@
 # Hi, I'm Joseph
 
-I'm a software engineer working across the stack in fintech. Outside work, I build tools I want to use and try out whatever catches my interest.
-
-Most of what you'll find here comes from that: side projects, experiments, and things built for friends or a community.
+I'm a software engineer working in fintech. Outside work, I like exploring different technologies and building things that seem useful or interesting. This is where I keep those side projects and experiments.
 
 ## Things I'm building
 
 ### [Momoi](https://github.com/Joseph2xy/momoi-voting)
 
-A voting app for a Twitch VOD community. Viewers choose what they want to watch next, and the winning playlist plays automatically. Built to give the community a say instead of leaving it random.
+A website where Twitch viewers vote on what to watch next instead of leaving it to chance. The winning playlist plays automatically.
 
-[Live app](https://momoi.joe2xyb.workers.dev/) · TypeScript, React, Convex
+TypeScript, React, Convex
 
 ### [PoorBot](https://github.com/Joseph2xy/poorBot)
 
-A Discord bot that watches game prices for a friend and me. It sends alerts when prices drop, so we don't have to keep checking.
+A Discord bot that tracks game prices and sends alerts when they drop.
 
 TypeScript, Node.js, discord.js
 
