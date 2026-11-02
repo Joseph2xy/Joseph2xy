@@ -4,13 +4,13 @@ I'm Joseph, a software engineer working in fintech. At work, I help turn complex
 
 ## Things I'm building
 
-### [MomoiVoting](https://github.com/Joseph2xy/momoi-public)
+### [MomoiVoting](https://github.com/Joseph2xy/momoi-voting)
 
 *Letting the community decide what plays next. Democracy, with playlists.*
 
 Built for a Twitch channel that runs VODs, so the community could vote on what to watch next instead of leaving it random. The winning choice plays automatically.
 
-### [PoorBot](https://github.com/Joseph2xy/poorbot)
+### [PoorBot](https://github.com/Joseph2xy/poorBot)
 
 *Too lazy to check by myself*
 
