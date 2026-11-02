@@ -4,7 +4,7 @@ I'm Joseph, a software engineer working across the stack in fintech. At work, I 
 
 ## Things I'm building
 
-### Momoi
+### MomoiVoting
 
 *Letting the community decide what plays next. Democracy, with playlists.*
 
@@ -16,7 +16,7 @@ Built for a Twitch channel that runs VODs, so the community could vote on what t
 
 Built for a friend and me to get Discord alerts when game prices drop, instead of checking manually. Actively used.
 
-### Momoi TTS
+### MomoiTTS
 
 *Giving fictional characters a voice, and viewers questionable things to ask them.*
 
