@@ -12,7 +12,7 @@ Built for a Twitch channel that runs VODs, so the community could vote on what t
 
 ### PoorBot
 
-*Keeping an eye on game prices because my backlog apparently needs company.*
+*Too lazy to check by myself*
 
 Built for a friend and me to get Discord alerts when game prices drop, instead of checking manually. Actively used.
 
@@ -21,5 +21,3 @@ Built for a friend and me to get Discord alerts when game prices drop, instead o
 *Giving fictional characters a voice, and viewers questionable things to ask them.*
 
 A project for creating characters with their own personalities and voices, with Twitch as a possible home for them. Still a work in progress, with more development and testing needed.
-
-Public source and setup instructions for these projects are being prepared.
