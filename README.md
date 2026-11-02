@@ -1,6 +1,6 @@
 # Joseph2xy
 
-I'm Joseph, a software engineer working across the stack in fintech. At work, I help turn complex financial and derivatives workflows into usable software. Outside work, I build things I find useful and whatever else catches my interest. Sometimes useful. Occasionally sensible.
+I'm Joseph, a software engineer working in fintech. At work, I help turn complex financial and derivatives workflows into usable software. Outside work, I build things I find useful and whatever else catches my interest. Sometimes useful. Occasionally sensible.
 
 ## Things I'm building
 
