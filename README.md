@@ -21,3 +21,9 @@ TypeScript, Node.js, discord.js
 An experiment with characters that have their own personalities and voices, built around spoken replies to Twitch viewer questions. Still a work in progress, with more development and testing to do.
 
 TypeScript, Twitch, OBS
+
+### [Portfolio](https://github.com/Joseph2xy/portfolio)
+
+My personal website, with work experience and selected projects.
+
+Astro, React, TypeScript
